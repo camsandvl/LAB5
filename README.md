@@ -51,3 +51,10 @@ La interfaz es muy simple y sigue el ejemplo mostrado en el laboratorio.
   - Espalda shiny  
 
 ---
+
+## Captura de la aplicación
+
+Aquí se muestra la aplicación en funcionamiento:
+
+![Captura de la app](funcionamiento.png)
+
